@@ -5,6 +5,7 @@ using System.Diagnostics;
 namespace PoziviMetoda
 {
     class Program
+
     {
         static void NekaMetoda()
         {

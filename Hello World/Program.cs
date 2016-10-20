@@ -6,11 +6,13 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+
+            //PREDAVANJE 13.10.2016. 
             int a = 14;
             double d = 3.14;
             Console.WriteLine(a);
             Console.WriteLine(d);
-            Console.WriteLine("Zdravo");
+            Console.WriteLine("HELLO WORLD!");
             Console.ReadKey();
         }
     }
